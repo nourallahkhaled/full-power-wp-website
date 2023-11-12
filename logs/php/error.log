@@ -195,3 +195,4 @@
 [10-Nov-2023 17:14:03 UTC] SITE: Storing in option ast-block-templates-sites-2
 [10-Nov-2023 17:14:03 UTC] SITE: Completed request 2
 [10-Nov-2023 17:14:03 UTC] Sync process for Gutenberg Blocks is done.
+[12-Nov-2023 11:56:34 UTC] Cron reschedule event error for hook: forminator_send_export, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":[],"interval":60}
